@@ -25,7 +25,7 @@ This project addresses **UN SDG 11: Sustainable Cities and Communities** by opti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/public-transport-optimization.git
+   git clone https://github.com/levisrabah/public-transport-optimization.git
    cd public-transport-optimization
    ```
 2. Install dependencies:
@@ -62,7 +62,6 @@ This project addresses **UN SDG 11: Sustainable Cities and Communities** by opti
   - 2D scatter plot with population density (point size).
 
 ## Demo Screenshots
-*(Add these screenshots after running the code.)*
 1. **Elbow and Silhouette Plots**:
    - File: `screenshots/elbow_silhouette.png`
    - Description: Justifies `k=5` for clustering.
@@ -83,11 +82,6 @@ This project addresses **UN SDG 11: Sustainable Cities and Communities** by opti
 1. Open `public_transport_clustering_socrata.ipynb` in Jupyter Notebook.
 2. Run all cells to generate outputs.
 3. Open `nyc_bus_stops_map.html` in a browser.
-4. For a 5-minute presentation:
-   - Explain SDG 11 and transport inefficiencies.
-   - Describe K-means and the MTA dataset.
-   - Show visualizations (plots, map).
-   - Discuss results and ethical considerations.
 
 ## Stretch Goals
 - Integrate real population data (e.g., [NYC Population by Borough](https://data.cityofnewyork.us/City-Government/Population-by-Borough/9t2m-hnzh)).
